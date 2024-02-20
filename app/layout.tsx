@@ -1,4 +1,4 @@
-import { inter } from './ui/fonts';
+import { inter } from './fonts';
 import './ui/global.css';
 
 export default function RootLayout({
